@@ -1,0 +1,10 @@
+steps.txt 
+
+
+Installing AdonisJs
+
+ npm i -g @adonisjs/cli
+
+ npm init adonis-ts-app@latest api
+
+ 
